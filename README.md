@@ -26,4 +26,4 @@ This project aims to predict movie ratings based on features like **genre, direc
 ## ⚙️ Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/movie-rating-prediction.git
+   git clone https://github.com/Atharvdanej07/movie-rating-prediction.git
